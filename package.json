@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "browser-sync start --server --files \"**/*.html, **/*.css, **/*.js\"",
+    "start": "browser-sync start --server --files \"**/*.html, **/*.css, **/*.js\""
   },
   "dependencies": {
     "@types/p5": "^1.7.1",
